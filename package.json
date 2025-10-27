@@ -1,6 +1,6 @@
 {
+  "homepage": "https://meenukumari77310-creator.github.io/React-Figma1",
   "name": "client",
-  "homepage": "https://meenukumari77310-creator.github.io/React-GD",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,11 +35,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --repo=https://github.com/meenukumari77310-creator/React-GD.git"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
