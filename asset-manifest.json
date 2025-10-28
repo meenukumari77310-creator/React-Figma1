@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Figma1/static/css/main.f70a43ca.css",
+    "main.js": "/React-Figma1/static/js/main.86f303c1.js",
+    "index.html": "/React-Figma1/index.html",
+    "main.f70a43ca.css.map": "/React-Figma1/static/css/main.f70a43ca.css.map",
+    "main.86f303c1.js.map": "/React-Figma1/static/js/main.86f303c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70a43ca.css",
+    "static/js/main.86f303c1.js"
+  ]
+}
