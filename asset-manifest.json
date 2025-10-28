@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "/React-Figma1/static/css/main.f70a43ca.css",
-    "main.js": "/React-Figma1/static/js/main.da4bf2da.js",
+    "main.js": "/React-Figma1/static/js/main.305a1e29.js",
+    "static/media/image.png": "/React-Figma1/static/media/image.0c6181b7f371de8ae973.png",
+    "static/media/course1.jpg": "/React-Figma1/static/media/course1.71db1ad5152563138684.jpg",
+    "static/media/course2.jpg": "/React-Figma1/static/media/course2.aad60f1d91990f96e88d.jpg",
+    "static/media/author1.png": "/React-Figma1/static/media/author1.7e319b8ae71ac314c82f.png",
+    "static/media/author2.png": "/React-Figma1/static/media/author2.b1985ef720e86ddb7789.png",
     "index.html": "/React-Figma1/index.html",
     "main.f70a43ca.css.map": "/React-Figma1/static/css/main.f70a43ca.css.map",
-    "main.da4bf2da.js.map": "/React-Figma1/static/js/main.da4bf2da.js.map"
+    "main.305a1e29.js.map": "/React-Figma1/static/js/main.305a1e29.js.map"
   },
   "entrypoints": [
     "static/css/main.f70a43ca.css",
-    "static/js/main.da4bf2da.js"
+    "static/js/main.305a1e29.js"
   ]
 }
